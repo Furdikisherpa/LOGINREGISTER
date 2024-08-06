@@ -1,0 +1,15 @@
+we have two folders
+
+client and server 
+
+client - will hold our frontend
+server - will hold our Expresss server 
+
+let's create the component now !!
+
+
+Remember that these will be in different routes/pages 
+so we need to create routes .........\
+
+
+let's build this pages
